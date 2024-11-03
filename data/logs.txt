@@ -1,0 +1,688 @@
+[2024-11-03 17:53:44] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:00:58] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"h2 a span"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100dcb648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000100dc3ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000100830104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100872364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001008688b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001008abbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000100866f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000100867ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000100d961e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000100d9952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000100d7d60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000100d99df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000100d6e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000100db4898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000100db4a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000100dc3b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:03:49] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ef3648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104eebea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104958104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010499a364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001049908b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001049d3bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010498ef54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010498fba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104ebe1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104ec152c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104ea560c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104ec1df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104e96890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104edc898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104edca14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104eebb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:19:40] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001049e7648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001049dfea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x000000010444c104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010448e364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001044848b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001044c7bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000104482f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000104483ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001049b21e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x00000001049b552c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010499960c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x00000001049b5df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x000000010498a890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x00000001049d0898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x00000001049d0a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001049dfb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:23:48] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:24:16] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:24:36] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:28:47] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:29:12] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:30:21] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:31:56] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:32:30] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103357648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x000000010334fea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102dbc104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102dfe364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000102df48b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000102e37bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000102df2f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000102df3ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001033221e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010332552c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010330960c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000103325df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x00000001032fa890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000103340898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000103340a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x000000010334fb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:32:30] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103357648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x000000010334fea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102dbc104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102dfe364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000102df48b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000102e37bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000102df2f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000102df3ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001033221e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010332552c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010330960c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000103325df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x00000001032fa890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000103340898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000103340a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x000000010334fb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:32:30] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103357648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x000000010334fea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102dbc104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102dfe364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000102df48b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000102e37bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000102df2f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000102df3ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001033221e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010332552c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010330960c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000103325df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x00000001032fa890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000103340898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000103340a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x000000010334fb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:32:30] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103357648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x000000010334fea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102dbc104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102dfe364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000102df48b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000102e37bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000102df2f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000102df3ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001033221e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010332552c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010330960c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000103325df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x00000001032fa890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000103340898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000103340a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x000000010334fb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:32:30] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103357648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x000000010334fea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102dbc104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102dfe364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000102df48b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000102e37bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000102df2f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000102df3ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001033221e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010332552c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010330960c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000103325df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x00000001032fa890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000103340898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000103340a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x000000010334fb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:32:30] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000103357648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x000000010334fea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102dbc104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102dfe364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000102df48b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000102e37bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000102df2f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000102df3ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001033221e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010332552c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010330960c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000103325df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x00000001032fa890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000103340898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000103340a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x000000010334fb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:33:13] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:37:11] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:39:53] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:46:49] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001015cb648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001015c3ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000101030104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000101072364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001010688b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001010abbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000101066f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000101067ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001015961e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010159952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010157d60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000101599df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x000000010156e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x00000001015b4898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x00000001015b4a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001015c3b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:46:49] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001015cb648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001015c3ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000101030104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000101072364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001010688b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001010abbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000101066f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000101067ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001015961e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010159952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010157d60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000101599df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x000000010156e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x00000001015b4898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x00000001015b4a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001015c3b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:47:59] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ddf648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104dd7ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104844104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104886364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x000000010487c8b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001048bfbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010487af54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010487bba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104daa1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104dad52c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104d9160c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104daddf0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104d82890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104dc8898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104dc8a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104dd7b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:47:59] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ddf648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104dd7ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104844104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104886364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x000000010487c8b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001048bfbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010487af54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010487bba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104daa1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104dad52c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104d9160c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104daddf0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104d82890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104dc8898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104dc8a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104dd7b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:47:59] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ddf648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104dd7ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104844104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104886364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x000000010487c8b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001048bfbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010487af54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010487bba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104daa1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104dad52c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104d9160c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104daddf0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104d82890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104dc8898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104dc8a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104dd7b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:50:17] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010319f648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000103197ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102c04104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000102c46364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000102c3c8b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000102c7fbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000102c3af54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000102c3bba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x000000010316a1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010316d52c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010315160c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x000000010316ddf0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000103142890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000103188898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000103188a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000103197b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:50:47] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104fd3648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104fcbea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104a38104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104a7a364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000104a708b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000104ab3bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000104a6ef54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000104a6fba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104f9e1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104fa152c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104f8560c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104fa1df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104f76890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104fbc898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104fbca14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104fcbb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:50:47] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104fd3648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104fcbea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104a38104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104a7a364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000104a708b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000104ab3bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000104a6ef54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000104a6fba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104f9e1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104fa152c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104f8560c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104fa1df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104f76890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104fbc898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104fbca14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104fcbb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:50:47] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104fd3648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104fcbea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104a38104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104a7a364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000104a708b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000104ab3bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000104a6ef54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000104a6fba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104f9e1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104fa152c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104f8560c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104fa1df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104f76890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104fbc898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104fbca14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104fcbb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:51:04] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001014ab648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001014a3ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000100f10104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100f52364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000100f488b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000100f8bbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000100f46f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000100f47ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001014761e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010147952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010145d60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000101479df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x000000010144e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000101494898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000101494a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001014a3b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:51:31] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010548b648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000105483ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104ef0104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104f32364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000104f288b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000104f6bbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000104f26f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000104f27ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001054561e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010545952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010543d60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000105459df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x000000010542e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000105474898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000105474a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000105483b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:51:31] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010548b648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000105483ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104ef0104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000104f32364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x0000000104f288b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x0000000104f6bbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000104f26f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000104f27ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001054561e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x000000010545952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010543d60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000105459df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x000000010542e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000105474898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000105474a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000105483b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:55:56] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:56:37] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:57:22] Erreur lors du chargement des résultats : Message: 
+
+[2024-11-03 18:58:07] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001055d3648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001055cbea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000105038104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010507a364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001050708b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001050b3bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010506ef54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010506fba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x000000010559e1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x00000001055a152c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010558560c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x00000001055a1df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000105576890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x00000001055bc898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x00000001055bca14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001055cbb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:58:07] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001055d3648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001055cbea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000105038104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010507a364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001050708b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001050b3bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010506ef54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010506fba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x000000010559e1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x00000001055a152c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010558560c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x00000001055a1df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000105576890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x00000001055bc898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x00000001055bca14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001055cbb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 18:58:07] Erreur d'extraction du prix : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-price-whole"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001055d3648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001055cbea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000105038104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x000000010507a364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001050708b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001050b3bd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010506ef54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010506fba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x000000010559e1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x00000001055a152c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x000000010558560c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x00000001055a1df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000105576890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x00000001055bc898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x00000001055bca14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001055cbb40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 22:11:42] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001048fb648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x00000001048f3ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104360104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001043a2364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001043988b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001043dbbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000104396f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000104397ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x00000001048c61e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x00000001048c952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x00000001048ad60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x00000001048c9df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x000000010489e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x00000001048e4898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x00000001048e4a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x00000001048f3b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 22:13:48] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102b1b648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000102b13ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102580104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001025c2364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001025b88b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001025fbbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x00000001025b6f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x00000001025b7ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000102ae61e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000102ae952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000102acd60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000102ae9df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000102abe890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000102b04898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000102b04a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000102b13b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 22:18:50] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102bff648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000102bf7ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102664104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001026a6364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x000000010269c8b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001026dfbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010269af54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010269bba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000102bca1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000102bcd52c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000102bb160c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000102bcddf0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000102ba2890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000102be8898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000102be8a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000102bf7b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 22:19:41] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104bff648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000104bf7ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000104664104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001046a6364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x000000010469c8b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x00000001046dfbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x000000010469af54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x000000010469bba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000104bca1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000104bcd52c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000104bb160c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000104bcddf0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000104ba2890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000104be8898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000104be8a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000104bf7b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 22:24:00] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100c6b648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000100c63ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x00000001006d0104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x0000000100712364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001007088b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x000000010074bbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x0000000100706f54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x0000000100707ba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000100c361e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000100c3952c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000100c1d60c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000100c39df0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000100c0e890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000100c54898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000100c54a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000100c63b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
+[2024-11-03 22:28:30] Erreur d'extraction des données : Message: no such element: Unable to locate element: {"method":"css selector","selector":"span.a-text-normal"}
+  (Session info: chrome=130.0.6723.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000102d2f648 cxxbridge1$str$ptr + 3645404
+1   chromedriver                        0x0000000102d27ea8 cxxbridge1$str$ptr + 3614780
+2   chromedriver                        0x0000000102794104 cxxbridge1$string$len + 88416
+3   chromedriver                        0x00000001027d6364 cxxbridge1$string$len + 359360
+4   chromedriver                        0x00000001027cc8b0 cxxbridge1$string$len + 319756
+5   chromedriver                        0x000000010280fbd0 cxxbridge1$string$len + 594988
+6   chromedriver                        0x00000001027caf54 cxxbridge1$string$len + 313264
+7   chromedriver                        0x00000001027cbba4 cxxbridge1$string$len + 316416
+8   chromedriver                        0x0000000102cfa1e8 cxxbridge1$str$ptr + 3427196
+9   chromedriver                        0x0000000102cfd52c cxxbridge1$str$ptr + 3440320
+10  chromedriver                        0x0000000102ce160c cxxbridge1$str$ptr + 3325856
+11  chromedriver                        0x0000000102cfddf0 cxxbridge1$str$ptr + 3442564
+12  chromedriver                        0x0000000102cd2890 cxxbridge1$str$ptr + 3265060
+13  chromedriver                        0x0000000102d18898 cxxbridge1$str$ptr + 3551788
+14  chromedriver                        0x0000000102d18a14 cxxbridge1$str$ptr + 3552168
+15  chromedriver                        0x0000000102d27b40 cxxbridge1$str$ptr + 3613908
+16  libsystem_pthread.dylib             0x000000018bf9b2e4 _pthread_start + 136
+17  libsystem_pthread.dylib             0x000000018bf960fc thread_start + 8
+
